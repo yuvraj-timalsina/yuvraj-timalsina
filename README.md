@@ -17,4 +17,4 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Ne
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-timalsina&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
