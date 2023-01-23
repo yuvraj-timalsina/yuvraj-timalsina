@@ -5,7 +5,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=timalsina-yuvraj&label=Profile%20Views&color=0e75b6&style=flat" alt="timalsina-yuvraj" /> </p>
 </div>
 
-# 💫 About Me
+# 🧑‍💻 About Me
 Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Nepal-based Full Stack Developer with a degree in Software Engineering from the National Institute of Information Technology (NIIT), India.
 
 # 💻 Tech Stack
