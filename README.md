@@ -20,8 +20,8 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Fu
 <a href="https://github.com/yuvraj-timalsina/laravel-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog" />
 </a>
-<a href="https://github.com/yuvraj-timalsina/laravel-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog" />
+<a href="https://github.com/yuvraj-timalsina/spatie-role-permission">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=spatie-role-permission" />
 </a>
 
 ## 🏆 GitHub Trophies
