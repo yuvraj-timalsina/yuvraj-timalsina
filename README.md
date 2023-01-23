@@ -13,13 +13,10 @@
 </div>
 <p> <img src="https://komarev.com/ghpvc/?username=timalsina-yuvraj&label=Profile%20Views&color=0e75b6&style=flat" alt="timalsina-yuvraj" /> </p>
 </div>
-<h1>
-🧑🏻‍💻 Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<div>
+# 💫 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me:
+
 Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Nepal-based Full Stack Developer with a degree in Software Engineering from the National Institute of Information Technology (NIIT), India.
-</div>
 
 # 💻 Tech Stack:
 <div align="left"> 
