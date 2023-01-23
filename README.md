@@ -16,7 +16,7 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Fu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-timalsina&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-timalsina&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🪩 Top Repositories
+# 🪩 Popular Repositories
 <a href="https://github.com/yuvraj-timalsina/laravel-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog" />
 </a>
