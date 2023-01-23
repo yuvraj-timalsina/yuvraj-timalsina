@@ -76,8 +76,8 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Ne
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-timalsina&show_icons=true&locale=en&layout=compact" alt="yuvraj-timalsina" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-timalsina&show_icons=true&locale=en&layout=compact" alt="yuvraj-timalsina" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj-timalsina&show_icons=true&locale=en" alt="yuvraj-timalsina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-timalsina&" alt="yuvraj-timalsina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-timalsina&" alt="yuvraj-timalsina" /></p>
