@@ -18,17 +18,8 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Fu
 
 # 🪩 Cool Repos
 ![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter)
-![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter)
-![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter)
-<a href="https://github.com/yuvraj-timalsina/qwitter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter" />
-</a>
-<a href="https://github.com/yuvraj-timalsina/reddit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=reddit" />
-</a>
-<a href="https://github.com/yuvraj-timalsina/job-board">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=job-board" />
-</a>
+![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=reddit)
+![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=job-board)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
