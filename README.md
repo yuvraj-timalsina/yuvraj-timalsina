@@ -22,7 +22,7 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Fu
 </a>
 <a href="https://github.com/yuvraj-timalsina/reddit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=reddit" />
-</a>
+</a><br/>
 <a href="https://github.com/yuvraj-timalsina/job-board">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=job-board" />
 </a>
