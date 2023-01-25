@@ -18,6 +18,7 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 
 # 🪩 Cool Repos
 ![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter)
+![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=reddit)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=job-board)
 
