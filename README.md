@@ -32,4 +32,4 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 </a>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&column=-1&theme=flat&no-frame=false&no-bg=true&margin-w=4)
