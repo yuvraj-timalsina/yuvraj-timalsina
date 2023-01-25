@@ -23,7 +23,6 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 <a href="https://github.com/yuvraj-timalsina/qwitter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter&theme=buefy" />
 </a>
-<br/>
 <a href="https://github.com/yuvraj-timalsina/mini-reddit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=mini-reddit&theme=buefy" />
 </a>
