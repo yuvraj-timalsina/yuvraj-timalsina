@@ -33,8 +33,4 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yuvraj-timalsina&column=-1&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+![Snake animation](https://github.com/yuvraj-timalsina/yuvraj-timalsina/blob/output/github-contribution-grid-snake.svg)
