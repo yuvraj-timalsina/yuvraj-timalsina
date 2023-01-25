@@ -18,7 +18,7 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 
 # 🪩 Cool Repos
 <a href="https://github.com/yuvraj-timalsina/laravel-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=laravel-blog&theme=dark" />
 </a>
 <a href="https://github.com/yuvraj-timalsina/qwitter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvraj-timalsina&repo=qwitter&theme=buefy" />
