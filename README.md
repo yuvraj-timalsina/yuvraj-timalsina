@@ -18,7 +18,7 @@ Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, La
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![VueJs](https://img.shields.io/badge/Vue.Js-1867C0?style=flat&logo=vue&logoColor=AEDDFF) 
+![VueJs](https://img.shields.io/badge/VueJs-1867C0?style=flat&logo=vue-dot-js&logoColor=AEDDFF) 
 ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
