@@ -6,7 +6,7 @@
 </div>
 
 # 🧑‍💻 About Me
-Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Laravel Web Developer with a Degree in Software Engineering from the National Institute of Information Technology (NIIT).
+Hello, this is 𝗬𝘂𝘃𝗿𝗮𝗷 𝗧𝗶𝗺𝗮𝗹𝘀𝗶𝗻𝗮, Laravel Developer with a Degree in Software Engineering from the National Institute of Information Technology (NIIT).
 
 # 💻 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
